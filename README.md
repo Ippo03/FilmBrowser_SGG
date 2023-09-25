@@ -1,6 +1,6 @@
 # Film Browser C++ Application
 
-![Film Browser Screenshot](screenshot.png)
+![Film Browser Main Page](images/main.png)
 
 ## Overview
 
@@ -10,11 +10,14 @@ Welcome to the Film Browser C++ application! This application leverages the powe
 
 - **Interactive Slider:** Explore a diverse range of movies with ease using an intuitive slider interface.
 
-- **Movie Details:** Get comprehensive information about the active movie, including its title, release year, genre, and a brief description.
+- **Movie Details:** Get comprehensive information about the active movie, including its title, release year, director, actors, a brief description and a couple of images.
+
+- **Dropdown (Dock) for Search:** The search functionality is conveniently accessible via a dropdown that appears when the mouse enters its region. This provides an unobtrusive and efficient way to initiate searches.
+![Dock](images/dock.png)
 
 - **Search Functionality:** Quickly locate movies based on different criteria:
   - Search by year: Find movies released in a specific year or within a range of years.
   - Search by genre: Discover movies belonging to your preferred genre.
-  - Text Search: Use keywords to search for movies by title, actors, or any relevant text.
+  - Text Search: Use keywords to search for movies by title, actors, or director.
 
 
