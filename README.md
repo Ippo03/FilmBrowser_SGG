@@ -25,7 +25,7 @@ To use the Film Browser application, follow these steps:
 
 1. **Download the Application:**
 
-   - Download the application files from the [Releases](https://github.com/Ippo03/FilmBrowser_SGG/releases) section on GitHub.
+   - Download the application files from the [Repository](https://github.com/Ippo03/FilmBrowser_SGG) repository on GitHub.
    - Extract the downloaded archive to a folder of your choice.
 
 2. **Navigate to the 'bin' Folder:**
