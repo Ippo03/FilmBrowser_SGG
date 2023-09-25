@@ -20,4 +20,23 @@ Welcome to the Film Browser C++ application! This application leverages the powe
   - Search by genre: Discover movies belonging to your preferred genre.
   - Text Search: Use keywords to search for movies by title, actors, or director.
 
+## Usage
+To use the Film Browser application, follow these steps:
+
+1. **Download the Application:**
+
+   - Download the application files from the [Releases](https://github.com/yourusername/film-browser/releases) section on GitHub.
+   - Extract the downloaded archive to a folder of your choice.
+
+2. **Navigate to the 'bin' Folder:**
+
+   - Open the folder where you extracted the application files.
+   - Inside this folder, you will find a subfolder named 'bin.' Navigate to it.
+
+3. **Run the Film Browser:**
+
+   - Locate the `FilmBrowser` executable file.
+   - Double-click on the `FilmBrowser` executable to run the application.
+   - You are all set!!!
+
 
